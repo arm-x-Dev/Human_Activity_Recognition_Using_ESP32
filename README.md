@@ -22,11 +22,11 @@ Follow these steps in order to get your live telemetry radar cockpit up and runn
 ### 2. Software Environment Setup
 Open your terminal inside the project directory and activate your virtual environment, then install the required graphic and serial communication dependencies:
 
-# Activate your virtual environment (Windows)
+**Activate your virtual environment (Windows):**
 ```bash
 .venv\Scripts\activate
 ```
-# Install dependencies
+**Install Dependencies:**
 ```bash
 pip install pygame pyserial numpy
 ```

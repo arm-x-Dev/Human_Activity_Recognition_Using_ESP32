@@ -1,0 +1,10 @@
+# Python virtual environment folder
+.venv/
+__pycache__/
+*.pyc
+
+# Local raw RF telemetry data logs (Excel/CSV sheets)
+stillroom.csv
+movingroom.csv
+jumpingroom.csv
+processed_csi_data.csv

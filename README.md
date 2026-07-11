@@ -10,7 +10,7 @@ An advanced, edge-AI telemetry radar system that repurposes standard Wi-Fi signa
 
 ---
 
-## 🚀 How to Run the System
+## How to Run the System
 
 Follow these steps in order to get your live telemetry radar cockpit up and running:
 
@@ -37,7 +37,7 @@ python dashboard.py
 ```
 _Once the window opens, sit perfectly still for the initial frame sync, then move your hands or body between the antennas to watch the real-time oscilloscope wave and classification cards react live!_
 
-🧠 What AI/ML is Used and Why
+What AI/ML is Used and Why
 -----------------------------
 
 Instead of relying on heavy cloud computers, this project utilizes **TinyML (Tiny Machine Learning)** principles to run intelligence directly on cheap, low-power microcontrollers.
@@ -74,7 +74,7 @@ The physical system pipeline operates entirely locally across three distinct lay
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions to improve subcarrier feature engineering, filter background multipath fading, or add new dynamic UI visualization layers are highly welcome! 
 
@@ -86,13 +86,13 @@ Contributions to improve subcarrier feature engineering, filter background multi
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See the local `LICENSE` file for more details regarding open-source reuse permissions.
 
 ---
 
-## 💎 Acknowledgments
+## Acknowledgments
 
 * **Espressif Systems:** For opening up native access to the underlying raw Wi-Fi physical layer (PHY) Channel State Information registers.
 * **Scikit-Learn Community:** For providing the training algorithms used to build and prune the foundational human activity decision trees.

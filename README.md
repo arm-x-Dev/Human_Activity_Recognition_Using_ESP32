@@ -64,7 +64,7 @@ Instead of relying on heavy cloud computers, this project utilizes **TinyML (Tin
 
 ---
 
-## 🛠️ System Architecture
+## System Architecture
 
 The physical system pipeline operates entirely locally across three distinct layers:
 
